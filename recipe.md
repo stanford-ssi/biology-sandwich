@@ -1,7 +1,7 @@
 # How to Make a Sandwich
 Contributed to by: Michael Uttmark
 
-1. Choose a bread
+1. Get that bread
 2. Choose a condiment
 3. Choose a filling
 <<<<<<< HEAD
