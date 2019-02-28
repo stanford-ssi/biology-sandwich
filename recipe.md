@@ -12,5 +12,9 @@ helloooooo
 =======
 4. Eat the sandwich hot because your soul Connection reset by 171.67.51.37 port 22
 5. You're gonna need a bigger mouth
-6. Add jalapenos Q
+<<<<<<< HEAD
+6. Add jalapenos
 >>>>>>> bea365b33b3c9fcab1ed189f718368f507326f02
+=======
+6. Cry at night
+
