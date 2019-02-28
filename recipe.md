@@ -1,11 +1,24 @@
 # How to Make a Sandwich
-Contributed to by: Michael Uttmark
+Contributed to by: Michael Uttmark et. al.
+
+# Hi
+## hi
+### hi
+#### hi
+##### yooooo
+
+*hiya*
+**hello**
+
+|hi|bye|
+|--|---|
+|no|yes|
 
 1. Get that bread
-2. Choose a condiment
-3. Choose a filling
-4. Eat the sandwich hot because your soul Connection reset by 171.67.51.37 port 22
-5. You're gonna need a bigger mouth
-6. Add jalapenos
-7. Cry at night
+1. Choose a condiment
+1. Choose a filling
+1. Eat the sandwich hot because your soul Connection reset by 171.67.51.37 port 22
+1. You're gonna need a bigger mouth
+1. Add jalapenos
+1. Cry at night
 
